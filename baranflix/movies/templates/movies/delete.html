@@ -1,0 +1,11 @@
+<p>"{{item}}" Filmini Silmek İstediğinden Emin Misin?</p>
+
+<div>
+    <a href="{% url 'list' %}">İptal</a>
+    <br>
+    <br>
+<form method="POST" action="">
+    {% csrf_token %}
+    <input type="submit" name="Confirm" value="Sil">
+</form>
+</div>
