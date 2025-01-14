@@ -14,7 +14,7 @@ I followed multiple tutorials and courses to create this simple yet working prot
 -
 -How to use the Django framework to create websites using Python
 
--Different methods and clever ways to solve problems in Python
+-Different methods and ways to solve problems in Python
 
 **_PLANS FOR THE FUTURE_**
 -
