@@ -1,6 +1,6 @@
 **_BARANFLIX_**
 -
-Movie tracking made simpler. Just enter the movie name, check the box if you've watched it and when you're done delete it.
+Movie tracking made simpler. Just enter the movie name, check the box if you've watched it, and delete it when you're done.
 
 https://github.com/user-attachments/assets/9a1855cd-70fc-40d3-8c5f-14bd4eb9fc55
 
@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/9a1855cd-70fc-40d3-8c5f-14bd4eb9fc55
 -
 Tech used: Python, HTML, Django
 
-I followed multiple tutorials and courses to create this simple yet working prototype website. At the moment it has limited functionality but I plan to improve it overtime.
+I followed multiple tutorials and courses to create this simple yet working prototype website. At the moment, it has limited functionality, but I plan to improve it over time.
 
 **_WHAT I LEARNED FROM THIS PROJECT_**
 -
